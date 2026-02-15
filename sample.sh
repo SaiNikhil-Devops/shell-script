@@ -1,3 +1,6 @@
+#! /bin/bash
+
+
 This file is for tesing
 First will will push this to git by using git add sample.txt
 Now will give  a message that "git commit -m "testing"

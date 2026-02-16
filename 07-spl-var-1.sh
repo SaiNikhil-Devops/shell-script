@@ -13,3 +13,4 @@ echo "PID of this script: $$"
 sleep 100 &
 echo "PID of recently executed background process: $!"
 echo "All args passed to script: $*"
+echo "exit status of previous command: $?" # 0-127, 0 is success, 1-127 is failure

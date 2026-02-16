@@ -8,6 +8,7 @@ N="\e[0m"
 # echo -e "$R Hello World $N, $Y I am learning Linux $N" 
 
 
+
 USERID=$(id -u)
 LOGS_FOLDER="/var/log/shell-script"
 LOGS_FILE="/var/log/shell-script/$0.log"
